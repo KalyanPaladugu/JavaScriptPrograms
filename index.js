@@ -7,7 +7,7 @@
 // console.log(fruits);
 // console.log(fruit1);
 // console.log(fruit2);
-- splice(start, deleteCount, item1, item2, ) // Changes the contents of an array by removing or replacing existing elements and/or adding new elements. It modifies the array it's called on.
+ splice(start, deleteCount, item1, item2);
 
 Example:
 let fruits = ['apple', 'banana', 'orange'];
